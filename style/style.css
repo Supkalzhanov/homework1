@@ -1,0 +1,12 @@
+* {
+    background-color:#FFFFE0;
+}
+
+h1 {
+    text-align: center;
+    color: #CC0000;
+}
+
+.upper {
+    text-transform: uppercase;
+}
